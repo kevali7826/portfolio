@@ -24,7 +24,7 @@ function Hero() {
           Hi, I'm
         </p>
 
-        <h1>
+        <h1 class="hero-name">
           Kevali
           <span>Kanagale</span>
         </h1>

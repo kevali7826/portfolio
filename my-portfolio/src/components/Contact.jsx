@@ -21,7 +21,7 @@ function Contact() {
           href="mailto:your-email@gmail.com"
           className="contact-email"
         >
-          your-email@gmail.com
+          kevalikanagale16704@gmail.com
           <span>↗</span>
         </a>
 
