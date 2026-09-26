@@ -124,7 +124,23 @@ a {
 
 /* Hire button */
 
+.hire-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 
+  padding: 11px 19px;
+
+  border: 1px solid rgba(139, 92, 246, 0.6);
+  border-radius: 30px;
+
+  color: #c4b5fd;
+
+  font-family: "DM Mono", monospace;
+  font-size: 13px;
+
+  transition: 0.3s ease;
+}
 
 
 .hire-btn:hover {
