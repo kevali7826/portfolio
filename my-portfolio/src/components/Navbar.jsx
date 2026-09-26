@@ -32,7 +32,7 @@ Best regards,
     window.location.href = mailtoLink;
   };
 
-  
+
   return (
     <nav className="navbar">
       <a href="#home" className="logo">
@@ -47,9 +47,9 @@ Best regards,
         <a href="#contact">Contact</a>
       </div>
 
-      <a href="#contact" className="hire-btn">
+      <button onClick={handleHireMe} className="hire-btn">
         <span>&gt;</span> hire_me
-      </a>
+      </button>
     </nav>
   );
 }
