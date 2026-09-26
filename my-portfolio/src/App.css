@@ -143,7 +143,11 @@ a {
 }
 
 .hire-btn span {
-  color: #22d3ee;
+ background: rgba(139, 92, 246, 0.12);
+  border-color: #8b5cf6;
+
+  box-shadow:
+    0 0 25px rgba(139, 92, 246, 0.2);
 }
 
 .hire-btn:hover {
